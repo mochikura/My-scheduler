@@ -1,0 +1,11 @@
+VEP,https://hope.c.fun.ac.jp/enrol/index.php?id=541
+word engine,https://www.wordengine.jp/login.html?redirect=/v_check.html&t=1560337821497
+Github,https://github.com/
+youtube,https://www.youtube.com/?hl=ja&gl=JP
+AtCoder,https://atcoder.jp/
+connpass,https://connpass.com/dashboard/
+google drive,https://drive.google.com/drive/my-drive
+The lodestone,https://jp.finalfantasyxiv.com/lodestone/account/select_character/
+manaba,https://manaba.fun.ac.jp/ct/home
+cookie clicker,http://orteil.dashnet.org/cookieclicker/
+hameln,https://syosetu.org/
